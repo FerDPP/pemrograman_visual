@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.GenerateResource.Cache
