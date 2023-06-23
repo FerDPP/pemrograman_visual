@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius_to_fahrenheit.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius_to_fahrenheit.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius_to_fahrenheit.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius_to_fahrenheit.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.vbproj.GenerateResource.Cache

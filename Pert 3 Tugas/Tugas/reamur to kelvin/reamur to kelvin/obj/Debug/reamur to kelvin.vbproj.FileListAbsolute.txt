@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur_to_kelvin.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur_to_kelvin.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\bin\Debug\reamur to kelvin.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur_to_kelvin.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur_to_kelvin.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\reamur to kelvin\reamur to kelvin\obj\Debug\reamur to kelvin.vbproj.GenerateResource.Cache

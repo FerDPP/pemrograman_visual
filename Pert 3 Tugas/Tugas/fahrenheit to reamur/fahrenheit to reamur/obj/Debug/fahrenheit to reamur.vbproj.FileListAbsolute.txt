@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit_to_reamur.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit_to_reamur.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\bin\Debug\fahrenheit to reamur.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit_to_reamur.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit_to_reamur.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\TUGAS3\fahrenheit to reamur\fahrenheit to reamur\obj\Debug\fahrenheit to reamur.vbproj.GenerateResource.Cache
