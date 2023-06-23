@@ -1,0 +1,34 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\bin\Debug\Form1.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Form3.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Form4.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Form5.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Form1\Form1\obj\Debug\Form1.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\bin\Debug\Form1.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Form3.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Form4.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Form5.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\Praktikum\Form1\Form1\obj\Debug\Form1.vbproj.GenerateResource.Cache

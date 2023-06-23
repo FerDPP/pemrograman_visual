@@ -1,0 +1,13 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\bin\Debug\ke 2.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\bin\Debug\ke 2.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\bin\Debug\ke 2.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\bin\Debug\ke 2.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke 2.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke_2.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke_2.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke_2.Form3.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke_2.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke 2.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke 2.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke 2.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 7\ke 2\ke 2\obj\Debug\ke 2.pdb
