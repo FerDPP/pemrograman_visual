@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\bin\Debug\Kelulusan.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\bin\Debug\Kelulusan.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\bin\Debug\select case.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\bin\Debug\select case.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\bin\Debug\select case.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\bin\Debug\select case.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select_case.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select_case.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select case.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select case.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select case.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\select case\select case\obj\Debug\select case.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\bin\Debug\select case.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select case.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select case.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select case.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\bin\Debug\select case.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\bin\Debug\select case.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\bin\Debug\select case.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select_case.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select_case.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\Latihan 5\select case\select case\obj\Debug\select case.vbproj.GenerateResource.Cache
