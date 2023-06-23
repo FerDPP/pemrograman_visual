@@ -1,0 +1,26 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\bin\Debug\layang-layang.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\bin\Debug\layang-layang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\bin\Debug\layang-layang.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\bin\Debug\layang-layang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang-layang.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang_layang.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang_layang.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang-layang.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang-layang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang-layang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\layang-layang\layang-layang\obj\Debug\layang-layang.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\pemrograman_visual2023-main_2\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\layang-layang\layang-layang\bin\Debug\layang-layang.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\pemrograman_visual2023-main_2\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\pemrograman_visual2023-main_2\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\pemrograman_visual2023-main_2\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\bin\Debug\layang-layang.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\bin\Debug\layang-layang.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\bin\Debug\layang-layang.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\bin\Debug\layang-layang.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang_layang.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang_layang.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\LATIHAN3\layang-layang\layang-layang\obj\Debug\layang-layang.vbproj.GenerateResource.Cache
