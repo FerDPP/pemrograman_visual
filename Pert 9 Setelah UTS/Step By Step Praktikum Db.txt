@@ -1,0 +1,27 @@
+Step By Step Praktikum Koneksi Data MySQL
+-----------------------------------------
+Siapkan Data:
+1. Aktifkan XAMPP, start apache, start mysql
+2. Aktifkan PHPMyAdmin
+3. Buat sebuah database baru dengan nama: dbakademik
+4. Import tabel mahasiswa
+
+Persiapan Project:
+1. Download dan Install MySQL Net Connector v6.6.5
+   https://downloads.mysql.com/archives/get/p/6/file/mysql-connector-net-6.6.5.msi
+2. Restart Computer
+3. Aktifkan Visual Studio 2015
+3. Buat sebuah Project baru VB Net, beri nama: AppAkademik
+4. Project -> Properties: Berikan ceklist pada library MySQL Data
+5. Save All Project AppAkademik
+
+Koding:
+1. Tambahkan sebuah DatagridView diatas Form1
+2. Tambahkan sebuah modul, beri nama: MyMod
+3. Tambahkan sebuah class, beri nama: Mahasiswa
+4. Berikan koding untuk MyMod
+5. Berikan Koding untuk class Mahasiswa
+6. Berikan koding untuk Form1
+4. Jalankan Form1
+
+
