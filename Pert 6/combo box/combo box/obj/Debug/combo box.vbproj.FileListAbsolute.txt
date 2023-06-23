@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo_box.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo_box.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\bin\Debug\combo box.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo box.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo box.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo box.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\bin\Debug\combo box.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\bin\Debug\combo box.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\bin\Debug\combo box.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo box.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo_box.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo_box.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 6\combo box\combo box\obj\Debug\combo box.vbproj.GenerateResource.Cache
