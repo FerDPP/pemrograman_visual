@@ -1,0 +1,31 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\bin\Debug\tabung.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\bin\Debug\tabung.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\bin\Debug\tabung.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\bin\Debug\tabung.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 3 Praktikum 1\Praktikum\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
