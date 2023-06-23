@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\bin\Debug\if2.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\bin\Debug\if2.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\bin\Debug\if2.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\bin\Debug\if2.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 5\praktikum 5\if2\if2\obj\Debug\if2.vbproj.GenerateResource.Cache
