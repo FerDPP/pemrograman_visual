@@ -1,0 +1,31 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\mhs_client_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 12\mhs_client_api\mhs_client_api\obj\Debug\mhs_client_api.vbproj.GenerateResource.Cache
