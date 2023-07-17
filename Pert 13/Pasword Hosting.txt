@@ -1,0 +1,14 @@
+free.sprintshost.ru
+
+f0833853.xsph.ru
+
+Nama basis data
+f0833853_akademik
+Nama belakang
+f0833853_ferdypp
+Kata sandi pengguna Waduh123
+
+Имя: f0833853_akademik
+Пользователь: f0833853_ferdypp
+Пароль: Waduh123
+Адрес хоста: localhost
