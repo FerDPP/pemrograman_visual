@@ -1,0 +1,44 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 14 KUIS\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK 2\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK 2\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK 2\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\KOCAK 2\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Form1.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Form2.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 14 KUIS\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\bin\Debug\rumahsakit_api.exe.config
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 14 KUIS\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 14 KUIS\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Kuliah\Semester 6\Visual\Pert 14 KUIS\ferdypradanaputra_20C\rumahsakit_api\rumahsakit_api\obj\Debug\rumahsakit_api.pdb
