@@ -3,7 +3,7 @@ CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
   `passwd` varchar(50) NOT NULL,
-  `rolename` enum('jasa','pelanggan') NOT NULL DEFAULT 'mahasiswa'
+  `rolename` enum('jasa','pelanggan') NOT NULL DEFAULT 'pelanggan'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
