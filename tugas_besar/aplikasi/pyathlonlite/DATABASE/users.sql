@@ -3,7 +3,7 @@ CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
   `passwd` varchar(50) NOT NULL,
-  `rolename` enum('admin','dosen','mahasiswa') NOT NULL DEFAULT 'mahasiswa'
+  `rolename` enum('jasa','pelanggan') NOT NULL DEFAULT 'mahasiswa'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
@@ -11,9 +11,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `passwd`, `rolename`) VALUES
-(1, 'tatang', '202cb962ac59075b964b07152d234b70', 'admin'),
-(2, 'sokid', '202cb962ac59075b964b07152d234b70', 'dosen'),
-(3, 'farhan', '202cb962ac59075b964b07152d234b70', 'mahasiswa');
+(1, 'ferdy', '202cb962ac59075b964b07152d234b70', 'jasa'),
+(2, 'putra', '202cb962ac59075b964b07152d234b70', 'pelanggan');
 
 --
 -- Indexes for dumped tables
